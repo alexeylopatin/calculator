@@ -24,3 +24,14 @@ calculator-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Specific to MacOS
+.DS_Store
+
+.formatter.exs
+
+# Ignore configuration files that may contain sensitive information.
+config/*.secret.exs
+
+# Ignore package lock files (depends on your deployment strategy)
+mix.lock

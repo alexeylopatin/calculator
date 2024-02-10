@@ -4,7 +4,7 @@ The Calculator module is designed for basic arithmetic operations, including add
 
 
 Since the project is simple and educational, the documentation has been published on GitHub Pages and is available at the following address:
-[GitHub pages docs link](https://alexeylopatin.github.io/calculator)
+[GitHub pages docs link](https://alexeylopatin.github.io/calculator/Calculator.html)
 
 
 
