@@ -2,22 +2,10 @@
 
 The Calculator module is designed for basic arithmetic operations, including addition, subtraction, multiplication, and division. It is implemented in Elixir and provides a simple interface for performing these calculations.
 
-## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `calculator` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:calculator, "~> 0.1.0"}
-  ]
-end
-```
 Since the project is simple and educational, the documentation has been published on GitHub Pages and is available at the following address:
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/calculator>.
+[GitHub pages docs link](https://alexeylopatin.github.io/calculator)
+
 
 
 ## Usage
